@@ -1,0 +1,16 @@
+.search
+{
+    width:25%;
+    margin-left: 37%;
+    padding-top: 2%;
+    
+
+}
+#display
+{
+    display: flex;
+}
+.card
+{
+    background-color: aqua;
+}
